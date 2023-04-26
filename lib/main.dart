@@ -57,7 +57,7 @@ class MyProfilePage extends StatelessWidget {
                   textScaleFactor: 0.95,
                 ),
                 subtitle: Text(
-                  "Dnyaneshwar Patil",
+                  "Irin Roche",
                   textScaleFactor: 1.1,
                 ),
               ),
